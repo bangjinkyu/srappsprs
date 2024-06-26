@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>823906977154-11sasgm4m0na6b6q7qfgs50e12r39k1e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.823906977154-11sasgm4m0na6b6q7qfgs50e12r39k1e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4r1TdxoAUSFVliYaX23QWWHVO6MVvQmU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>823906977154</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.vercel.srapp</string>
+	<key>PROJECT_ID</key>
+	<string>srapp-327300</string>
+	<key>STORAGE_BUCKET</key>
+	<string>srapp-327300.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:823906977154:ios:fb22d27774a52a7a21fb9b</string>
+</dict>
+</plist>
